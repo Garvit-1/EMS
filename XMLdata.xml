@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+    <Employee>
+        <fname>Garvit</fname>
+        <lname>Garg</lname>
+        <email>garvitgarg200@gmail.com</email>
+        <username>20BCE2032</username>
+        <password>12345678</password>
+        <dob>18-09-2002</dob>
+        <mob>9813332252</mob>
+        <post>sde</post>
+        <address>Panipat</address>
+    </Employee>
+    <Employee>
+        <fname>Arya </fname>
+        <lname>Shidore</lname>
+        <email>aryashidore21@gmail.com</email>
+        <username>20BCE2027</username>
+        <password>12345678</password>
+        <dob>27-09-2002</dob>
+        <mob>9090909090</mob>
+        <post>ass</post>
+        <address>Pune</address>
+    </Employee>
+<Employee><fname>Pranav</fname><lname>Bhatt</lname><email>pranav21@gmail.com</email><username>20BCE2031</username><password>12345678</password><dob>2022-10-16</dob><mob>6123456788</mob><post>sde</post><exp>11111</exp><branch>cs</branch><address>Mumbai</address></Employee>
+
+<Employee><fname>Goutam</fname><lname>Goyal</lname><email>goutam69@gmail.com</email><username>20BCE2052</username><password>22222222</password><dob>2022-10-20</dob><mob>6123456788</mob><post>mgr</post><exp>12</exp><branch>it</branch><address>Dhanbad</address></Employee></Company>
